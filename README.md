@@ -1,5 +1,5 @@
 # codingSamples
-Coding samples covering different aspects in different languages.
+Coding samples covering basic to advaced aspects in different languages.
 
 
 Coding samples covering different aspects in different languages. 
