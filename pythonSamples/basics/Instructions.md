@@ -1,9 +1,7 @@
 # Instructions File
 
 **The basics covers all basic functionalities and aspects of Python programming. My experience is based on Java so these examples are adapted from a generic OOP mind.
-Here, the main purpose is to provide a quick**
-
-The resources folder will have supporting files to provide inputs and helpers.start and reference.
+Here, the main purpose is to provide a quick start and reference.**
 
 **The programs in this folder are prepared with following order in mind ;**
 
@@ -21,6 +19,10 @@ The resources folder will have supporting files to provide inputs and helpers.st
   
 5. fileOperations.py
   Here, instead of creating lists for objects to load up from , its switched to loading from files for more practical approach.
+  
+  
+- P.S. : The resources folder will have supporting files to provide inputs and helpers.
+
   
   
   
