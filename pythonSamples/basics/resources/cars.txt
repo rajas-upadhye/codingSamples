@@ -1,0 +1,5 @@
+Kawasaki,Ninja,Sports
+Yamaha,R15,Sports
+Bajaj,Chetak,Scooter
+TVS,Wego,Scooter
+Bajaj,Pulsar,Road
