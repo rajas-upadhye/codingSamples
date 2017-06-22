@@ -1,0 +1,7 @@
+Honda,Civic,4,Sedan
+Toyota,Corolla,4,Sedan
+Ford,Mustang,2,Sports
+Honda,C-RV,5,SUV
+BMW,X1,5,SUV
+Mazda,CX-3,5,SUV
+Nissan,Note,5,Compact
