@@ -1,7 +1,7 @@
-#Instructions file
+# Instructions file
 
-The basics covers all basic functionalities and aspects of Python programming. My experience is based on Java so these examples are adapted from a generic OOP mind.
-Here, the main purpose is to provide a quick 
+** The basics covers all basic functionalities and aspects of Python programming. My experience is based on Java so these examples are adapted from a generic OOP mind.
+Here, the main purpose is to provide a quick **
 
 The resources folder will have supporting files to provide inputs and helpers.start and reference.
 
