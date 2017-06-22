@@ -1,0 +1,6 @@
+#This is instructions file
+
+#Files used in samples are cars.txt and bikes.txt. Both these file have standard csv format.
+
+File names are indicators of the purpose. The aim is to have coding samples covering different aspects in Python programming. 
+Here, the main purpose is to provide a quick start and reference.
