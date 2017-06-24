@@ -48,5 +48,5 @@ tosses2 = populateListLambda()
 result1 = countTossResults(tosses1)
 print "Toss results 1: Heads {} and Tails {}".format(result1[0],result1[1])
 
-result2 = countTossResults(tosses2)
-print "Toss results 2: Heads {} and Tails {}".format(result2[0],result2[1])
+#python inbuilt count can be used here too
+print "Toss results 2: Heads {} and Tails {}".format(tosses2.count('H'),tosses2.count('T'))
